@@ -49,7 +49,7 @@ public class PlayerManager : MonoBehaviour
 	bool inRevive							= false;					//The player is currently reviving
 	bool shieldActive						= false;					//Shield enabled/disabled
 	bool inExtraSpeed						= false;					//The submarine is using the extra speed power up
-	bool paused								= false;					//The game is paused/unpaused
+	bool paused								= false;					//The game is paused/unpaused	
 	bool shopReviveUsed						= false;					//The shop revive is used/unused
 	
 	bool powerUpUsed						= false;					//A power up is used/unused

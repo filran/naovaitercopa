@@ -1,0 +1,2097 @@
+fileFormatVersion: 2
+guid: ca6ad7aeb39da4fb2adda8ef5dd4aa7a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: police_sprites_test_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 353
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 354
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 353
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 353
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 354
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 353
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 353
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 354
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 353
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 353
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 354
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 353
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 353
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 354
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 353
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 353
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_16
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 354
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 353
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 353
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 354
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 353
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 11
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 322
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 322
+        width: 11
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 322
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 322
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 322
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 322
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 322
+        width: 11
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 322
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 322
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_31
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 322
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 322
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 322
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 322
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 322
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 322
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 322
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 322
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_39
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 322
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 322
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_41
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 322
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 289
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 290
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 289
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 289
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 290
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 289
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 289
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 290
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 289
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 289
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 290
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 289
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_54
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 289
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 290
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 289
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 289
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_58
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 290
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_59
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 289
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_60
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 289
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_61
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 290
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_62
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 289
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 12
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 258
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 258
+        width: 11
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 258
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 258
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_68
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 258
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 258
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_70
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 258
+        width: 11
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_71
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_72
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 258
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 258
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 258
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 258
+        width: 11
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 258
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 258
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 258
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_79
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 258
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_80
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 258
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_81
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 258
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_82
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 258
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_83
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 258
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 226
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_86
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_87
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 225
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_88
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 226
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_89
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 225
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 225
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_91
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 226
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_93
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 225
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_94
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 226
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_95
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 225
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 225
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_97
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 226
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_98
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 225
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_99
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 225
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: police_sprites_test_100
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 226
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: police_sprites_test_101
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 225
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_102
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 225
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_103
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 226
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_104
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 225
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_106
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_107
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_108
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_109
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_110
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 194
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_111
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_112
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 194
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_113
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_114
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_115
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_117
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_118
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_119
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_120
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_121
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_122
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 194
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_123
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_124
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 194
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_125
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 194
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_127
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_128
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 161
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_129
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 161
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_130
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_131
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 161
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_132
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 161
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_133
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_134
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 161
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_135
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 161
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_136
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 162
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 161
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_138
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 161
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_139
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 162
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_140
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 161
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 161
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_142
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 162
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_143
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 161
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_144
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 161
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_145
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 162
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_146
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 161
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_147
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_148
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_149
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_150
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_151
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_152
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 130
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_153
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_154
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 130
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_155
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_156
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_157
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_158
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_159
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_160
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_161
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_162
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_163
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_164
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 130
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_165
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_166
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 130
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_167
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 130
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_168
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_169
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 98
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_170
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 97
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_171
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 97
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_172
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_173
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 97
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_174
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_175
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 98
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_176
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_177
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 97
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_178
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 98
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_179
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_180
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 97
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_181
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 98
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_182
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 97
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_184
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 66
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_185
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 66
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_186
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 66
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_187
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_188
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 66
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_189
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 66
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_190
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 66
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_191
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 66
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_192
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 66
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_193
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 66
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_194
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 66
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_195
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 66
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_196
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 66
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_197
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 66
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_198
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_199
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 34
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_200
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 33
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_201
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_202
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_203
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 33
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_204
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 33
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_205
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 34
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_206
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 33
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_207
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 33
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_208
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 34
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_209
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 33
+        width: 13
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_210
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 33
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_211
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 34
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_212
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 33
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_213
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_214
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_215
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_216
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_217
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_218
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_219
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_220
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_221
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 12
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_222
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_223
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_224
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_225
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2
+        width: 13
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_226
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: police_sprites_test_227
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

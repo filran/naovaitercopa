@@ -46,6 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\NaoVaiTerCopaCore\Scripts\CupGUIManager.cs" />
+     <Compile Include="Assets\NaoVaiTerCopaCore\Scripts\CupInputManager.cs" />
+     <Compile Include="Assets\NaoVaiTerCopaCore\Scripts\CupLevelManager.cs" />
+     <Compile Include="Assets\NaoVaiTerCopaCore\Scripts\CupPlayerManager.cs" />
      <Compile Include="Assets\Tutorials\2DInfiniteRunnerToolkit\Scripts\C#\Follow.cs" />
      <Compile Include="Assets\Tutorials\2DInfiniteRunnerToolkit\Scripts\C#\GUIManager.cs" />
      <Compile Include="Assets\Tutorials\2DInfiniteRunnerToolkit\Scripts\C#\InputManager.cs" />
