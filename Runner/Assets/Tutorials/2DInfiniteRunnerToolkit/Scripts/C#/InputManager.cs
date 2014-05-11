@@ -3,6 +3,7 @@ using System.Collections;
 
 public class InputManager : MonoBehaviour 
 {
+	//Change this var if we are compiling to mobile Devices
 	public bool useTouch = false;				//Use touch based controls
 	
 	public LayerMask mask = -1;					//Set input layer mask

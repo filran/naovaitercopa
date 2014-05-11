@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tutorials/2DInfiniteRunnerToolkit/Scripts/C#/InputManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NaoVaiTerCopaCore/Scripts/CupInputManager.cs">
     <Files>
-      <File FileName="Assets/Tutorials/2DInfiniteRunnerToolkit/Scripts/C#/PlayerManager.cs" Line="36" Column="2" />
-      <File FileName="Assets/NaoVaiTerCopaCore/Scripts/CupPlayerManager.cs" Line="18" Column="59" />
-      <File FileName="Assets/Tutorials/2DInfiniteRunnerToolkit/Scripts/C#/InputManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/NaoVaiTerCopaCore/Scripts/CupInputManager.cs" Line="84" Column="6" />
+      <File FileName="Assets/Tutorials/2DInfiniteRunnerToolkit/Scripts/C#/PlayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/NaoVaiTerCopaCore/Scripts/CupPlayerManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

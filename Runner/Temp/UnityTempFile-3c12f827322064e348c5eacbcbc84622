@@ -37,6 +37,9 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
 'Assets/NaoVaiTerCopaCore/Scripts/CupGUIManager.cs'
+'Assets/NaoVaiTerCopaCore/Scripts/CupInputManager.cs'
+'Assets/NaoVaiTerCopaCore/Scripts/CupLevelManager.cs'
+'Assets/NaoVaiTerCopaCore/Scripts/CupPlayerManager.cs'
 'Assets/Tutorials/2DInfiniteRunnerToolkit/Scripts/C#/Follow.cs'
 'Assets/Tutorials/2DInfiniteRunnerToolkit/Scripts/C#/GUIManager.cs'
 'Assets/Tutorials/2DInfiniteRunnerToolkit/Scripts/C#/InputManager.cs'

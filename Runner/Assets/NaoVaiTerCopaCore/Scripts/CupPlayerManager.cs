@@ -14,14 +14,14 @@ public class CupPlayerManager : MonoBehaviour {
 
 	bool isJumping							= false;					//See if the character is jumping
 	bool paused								= false;					//The game is paused/unpaused
-	bool controlIsEnabled					= false;					//The Control is Enabled
+	bool controlIsEnabled					= true;					//The Control is Enabled
 	bool movingUpward 						= false;					//The Char is rising
 
 	public float maxVerticalSpeed 			= 45.0f;					//The maximum vertical speed
-	public float depthEdge					= 10.0f;					//The edge fo the smoothing zone (minDepth- depthEdge and maxDepth - depthEdge)
+	public float depthEdge					= 1.0f;					//The edge fo the smoothing zone (minDepth- depthEdge and maxDepth - depthEdge)
 
-	public float minDepth 					= 26f;						//Minimum depth
-	public float maxDepth 					= -26f;						//Maximum depth
+	public float minDepth 					= 2f;						//Minimum depth
+	public float maxDepth 					= -2f;						//Maximum depth
 
 
 
@@ -110,6 +110,7 @@ public class CupPlayerManager : MonoBehaviour {
 		{
 			//Decrease speed
 			speed -= Time.deltaTime * maxVerticalSpeed;
+
 			
 			//If the sub is too close to the maxDepth
 			if (distanceToMax < depthEdge)
@@ -137,5 +138,28 @@ public class CupPlayerManager : MonoBehaviour {
 	}
 
 	void MoveChar(){
+		thisTransform.position += Vector3.up * speed * Time.deltaTime;
+	}
+
+	public void MoveUp()
+	{
+		//If the player is not at the min depth, and the controls are enabled, move up
+		if (distanceToMin > 0 && controlIsEnabled)	
+			movingUpward = true;
+	}
+	//Called from the Input manager
+	public void MoveDown()
+	{
+		//If the player is not at the max depth, and the controls are enabled, move down
+		if (distanceToMax > 0 && controlIsEnabled)	
+			movingUpward = false;
+
+	}
+
+	//Pause the Game
+	public void Pause()
+	{
+		paused = true;
+		//bubbles.Pause();
 	}
 }

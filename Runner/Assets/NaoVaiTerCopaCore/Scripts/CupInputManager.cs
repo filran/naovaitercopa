@@ -27,24 +27,22 @@ public class CupInputManager : MonoBehaviour {
 		if(Input.GetMouseButtonDown(0))
 		{
 			//Cast a ray
-			ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+			//ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 			
 			//If the ray hit something in the set layer
-			if (Physics.Raycast(ray, out hit, Mathf.Infinity, mask))
-			{
+			//if (Physics.Raycast(ray, out hit, Mathf.Infinity, mask))
+			//{
 				//Register it, and send it to the GUI manager
-				button = hit.transform;
-				//TODO!!!!!!
+				//button = hit.transform;
 				//CupGUIManager.Instance.ButtonDown(button);
-			}
+			//}
 			//If the ray didn't hit a GUI object
-			else
-			{
+			//else
+			//{
 				//Set the button to null, and move the sub up
 				button = null;
-				//TODO!!!!!!
-				//CupPlayerManager.Instance.MoveUp();
-			}
+				CupPlayerManager.Instance.MoveUp();
+			//}
 		}
 		//If the click was released
 		else if (Input.GetMouseButtonUp(0))
@@ -52,14 +50,13 @@ public class CupInputManager : MonoBehaviour {
 			//If there is no button registered previousely
 			if (button == null){
 				//Move the sub down
-				//TODO!!!!!!
-				//CupPlayerManager.Instance.MoveDown();
+				CupPlayerManager.Instance.MoveDown();
 			}
 			//If there is a button registered
 			else{
 				//Send it to the GUI manager
 				//TODO!!!!!!
-				//GUIManager.Instance.ButtonUp(button);
+				//CupGUIManager.Instance.ButtonUp(button);
 			}
 		}
 		
@@ -96,7 +93,7 @@ public class CupInputManager : MonoBehaviour {
 					//Set the button to null, and move the sub up
 					button = null;
 					//TODO!!!!!!
-					//CupPlayerManager.Instance.MoveUp();
+					CupPlayerManager.Instance.MoveUp();
 				}
 			}
 			//If a touch has ended
@@ -105,7 +102,7 @@ public class CupInputManager : MonoBehaviour {
 				//If there is no button registered previousely
 				if (button == null){
 					//Move the sub down
-					PlayerManager.Instance.MoveDown();
+					CupPlayerManager.Instance.MoveDown();
 				}
 				//If there is a button registered
 				else{
